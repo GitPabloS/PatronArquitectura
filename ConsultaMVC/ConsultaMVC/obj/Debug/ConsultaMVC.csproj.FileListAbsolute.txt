@@ -1,0 +1,10 @@
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.Properties.Resources.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.Views.ClientView.resources
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csproj.GenerateResource.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.exe.config
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\bin\Debug\ConsultaMVC.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.exe
+D:\Sistemas\Semestre 20-2\Arqui\Laboratorio 6\ConsultaMVC\ConsultaMVC\obj\Debug\ConsultaMVC.pdb
